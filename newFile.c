@@ -4,7 +4,9 @@
 
 int main(){
 
-printf("hellllo");
+
+int age =22;
+printf("my age is %d",age);
 
 return 0;
 }
